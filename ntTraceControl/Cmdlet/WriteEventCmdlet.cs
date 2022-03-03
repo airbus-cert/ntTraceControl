@@ -7,6 +7,7 @@ using System.Runtime.InteropServices;
 namespace ntTraceControl
 {
     [Cmdlet(VerbsCommunications.Write, "Event")]
+    [OutputType(typeof(IntPtr))]
     public class WriteEventCmdlet : Cmdlet
     {
         [Serializable]
@@ -19,7 +20,7 @@ namespace ntTraceControl
             public byte Level;
             public byte Opcode;
             public UInt16 Task;
-            public UInt64 Keyword;
+            public Int64 Keyword;
         }
 
         [Serializable]
@@ -58,7 +59,7 @@ namespace ntTraceControl
         public UInt16 Task { get; set; }
 
         [Parameter(Mandatory = true, Position = 7)]
-        public UInt64 Keyword { get; set; }
+        public Int64 Keyword { get; set; }
 
         [Parameter(Mandatory = false, Position = 8)]
         public byte[][] Parameters { get; set; }
@@ -102,7 +103,7 @@ namespace ntTraceControl
             };
 
             var UsrDataPtr = this.AllocateUserData();
-            var ErrorCode = EventWrite(this.RegHandle, ref EventDescriptor, UsrDataPtr.Length, UsrDataPtr);
+            var ErrorCode = EventWrite(this.RegHandle, ref EventDescriptor, this.Parameters.Length, UsrDataPtr);
 
             FreeUserData(UsrDataPtr);
 
@@ -110,6 +111,9 @@ namespace ntTraceControl
             {
                 throw new Win32Exception(ErrorCode);
             }
+
+            // Pass the object to the next steps in the pipeline
+            WriteObject(this.RegHandle);
         }
     }
 }

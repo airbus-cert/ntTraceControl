@@ -32,7 +32,7 @@
     $Task,
 
     [Parameter(Position = 7, Mandatory = $true)]
-    [UInt64]
+    [Int64]
     $Keyword,
 
     [Parameter(Position = 8, Mandatory = $false)]
@@ -54,6 +54,17 @@
 		{
 			$ParamByte = $Param
 		}
+		# Converting GUID in byte array
+		elseif ($Param.GetType() -eq [System.Guid])
+		{
+			$ParamByte = $Param.ToByteArray()
+		}
+		# Coverting security identifier into byte array
+		elseif ($Param.GetType() -eq [System.Security.Principal.SecurityIdentifier])
+		{
+			$ParamByte = New-Object Byte[] $Param.BinaryLength
+			$Param.GetBinaryForm($ParamByte, 0)
+		}
 		elseif ($Param.GetType() -eq [System.Byte])
 		{
 			
@@ -65,6 +76,11 @@
 			$ParamByte = [System.BitConverter]::GetBytes($Param)
 		}
 		
+		if ($null -eq  $ParamByte)
+		{
+			throw "Invalid type conversion for parameter"
+		}
+
 		$ParametersBytes += ,$ParamByte
 	}
 	

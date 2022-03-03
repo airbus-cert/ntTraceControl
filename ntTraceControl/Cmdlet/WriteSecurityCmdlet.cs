@@ -62,7 +62,7 @@ namespace ntTraceControl
         public UInt16 Task { get; set; }
 
         [Parameter(Mandatory = true, Position = 6)]
-        public UInt64 Keyword { get; set; }
+        public Int64 Keyword { get; set; }
 
         [Parameter(Mandatory = false, Position = 7)]
         public byte[][] Parameters { get; set; }
@@ -118,14 +118,16 @@ namespace ntTraceControl
 
             // Compute size in memory needed
             // Size of all parameters + size of headers
-            var ParametersSize = this.Parameters.Sum(Param => Param.Length);
+            var ParametersSize = 0;
+            if (this.Parameters.Length > 0)
+                ParametersSize = this.Parameters.Sum(Param => Param.Length);
+
             var DataMemorySize = (UInt32)(Marshal.SizeOf(typeof(WriteEventCmdlet.EVENT_DESCRIPTOR)) + Marshal.SizeOf(typeof(WriteEventCmdlet.EVENT_DATA_DESCRIPTOR)) + ParametersSize);
 
             // Memory use to host data
             using(var DataMemory = new VirtualMemoryManager(hProcess, IntPtr.Zero, DataMemorySize, VirtualMemoryManager.AllocationType.Commit | VirtualMemoryManager.AllocationType.Reserve, VirtualMemoryManager.MemoryProtection.ReadWrite))
             // Memory used to host code
             using(var CodeMemory = new VirtualMemoryManager(hProcess, IntPtr.Zero, (UInt32)CodePayload.Length, VirtualMemoryManager.AllocationType.Commit | VirtualMemoryManager.AllocationType.Reserve, VirtualMemoryManager.MemoryProtection.ExecuteReadWrite))
-            
             {
                 // Record memory address for the call of tghe function
                 var EventDescPtr = DataMemory.Pointer;

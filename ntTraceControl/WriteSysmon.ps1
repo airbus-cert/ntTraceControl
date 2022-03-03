@@ -94,7 +94,7 @@
     $ParentUser = $User
     )
 
-    Write-Etw -ProviderGuid ([System.Guid]::Parse("5770385F-C22A-43E0-BF4C-06F5698FFBD9")) -Id 1 -Version 5 -Channel 16 -Level 4 -Opcode 0 -Task 1 -Keyword ([UInt64]"0x8000000000000000") -Parameters @($RuleName, $UtcTime, $ProcessGuid.ToByteArray(), $ProcessId, $Image, $FileVersion, $Description, $Product, $Company, $OriginalFilename, $CommandLine, $CurrentDirectory, $User, $LogonGuid.ToByteArray(), $LogonId, $TerminalSessionId, $IntegrityLevel, $Hashes, $ParentProcessGuid.ToByteArray(), $ParentProcessId, $ParentImage, $ParentCommandLine, $ParentUser)
+    Write-Etw -ProviderGuid ([System.Guid]::Parse("5770385F-C22A-43E0-BF4C-06F5698FFBD9")) -Id 1 -Version 5 -Channel 16 -Level 4 -Opcode 0 -Task 1 -Keyword ([Int64]"0x8000000000000000") -Parameters @($RuleName, $UtcTime, $ProcessGuid.ToByteArray(), $ProcessId, $Image, $FileVersion, $Description, $Product, $Company, $OriginalFilename, $CommandLine, $CurrentDirectory, $User, $LogonGuid.ToByteArray(), $LogonId, $TerminalSessionId, $IntegrityLevel, $Hashes, $ParentProcessGuid.ToByteArray(), $ParentProcessId, $ParentImage, $ParentCommandLine, $ParentUser)
 }
 
 Function Write-SysmonFileCreateTime
@@ -137,7 +137,7 @@ Function Write-SysmonFileCreateTime
     $User = ""
     )
 
-    Write-Etw -ProviderGuid ([System.Guid]::Parse("5770385F-C22A-43E0-BF4C-06F5698FFBD9")) -Id 2 -Version 5 -Channel 16 -Level 4 -Opcode 0 -Task 1 -Keyword ([UInt64]"0x8000000000000000") -Parameters @($RuleName, $UtcTime, $ProcessGuid.ToByteArray(), $ProcessId, $Image, $TargetFilename, $CreationUtcTime, $PreviousCreationUtcTime, $User)
+    Write-Etw -ProviderGuid ([System.Guid]::Parse("5770385F-C22A-43E0-BF4C-06F5698FFBD9")) -Id 2 -Version 5 -Channel 16 -Level 4 -Opcode 0 -Task 1 -Keyword ([Int64]"0x8000000000000000") -Parameters @($RuleName, $UtcTime, $ProcessGuid.ToByteArray(), $ProcessId, $Image, $TargetFilename, $CreationUtcTime, $PreviousCreationUtcTime, $User)
 }
 
 Function Write-SysmonNetworkConnect
@@ -217,7 +217,7 @@ Function Write-SysmonNetworkConnect
 
     )
 
-    Write-Etw -ProviderGuid ([System.Guid]::Parse("5770385F-C22A-43E0-BF4C-06F5698FFBD9")) -Id 3 -Version 5 -Channel 16 -Level 4 -Opcode 0 -Task 1 -Keyword ([UInt64]"0x8000000000000000") -Parameters @($RuleName, $UtcTime, $ProcessGuid.ToByteArray(), $ProcessId, $Image, $User, $Protocol, $Initiated, $SourceIsIpv6, $SourceIp, $SourceHostname, $SourcePort, $SourcePortName, $DestinationIsIpv6, $DestinationIp, $DestinationHostname, $DestinationPort, $DestinationPortName)
+    Write-Etw -ProviderGuid ([System.Guid]::Parse("5770385F-C22A-43E0-BF4C-06F5698FFBD9")) -Id 3 -Version 5 -Channel 16 -Level 4 -Opcode 0 -Task 1 -Keyword ([Int64]"0x8000000000000000") -Parameters @($RuleName, $UtcTime, $ProcessGuid.ToByteArray(), $ProcessId, $Image, $User, $Protocol, $Initiated, $SourceIsIpv6, $SourceIp, $SourceHostname, $SourcePort, $SourcePortName, $DestinationIsIpv6, $DestinationIp, $DestinationHostname, $DestinationPort, $DestinationPortName)
 }
 
 
@@ -241,7 +241,7 @@ Function Write-SysmonServiceStateChanged
     $SchemaVersion = ""
     )
 
-    Write-Etw -ProviderGuid ([System.Guid]::Parse("5770385F-C22A-43E0-BF4C-06F5698FFBD9")) -Id 4 -Version 3 -Channel 16 -Level 4 -Opcode 0 -Task 1 -Keyword ([UInt64]"0x8000000000000000") -Parameters @($UtcTime, $State, $Version, $SchemaVersion)
+    Write-Etw -ProviderGuid ([System.Guid]::Parse("5770385F-C22A-43E0-BF4C-06F5698FFBD9")) -Id 4 -Version 3 -Channel 16 -Level 4 -Opcode 0 -Task 1 -Keyword ([Int64]"0x8000000000000000") -Parameters @($UtcTime, $State, $Version, $SchemaVersion)
 }
 
 Function Write-SysmonProcessTerminate
@@ -268,7 +268,7 @@ Function Write-SysmonProcessTerminate
     $Image = ""
     )
 
-    Write-Etw -ProviderGuid ([System.Guid]::Parse("5770385F-C22A-43E0-BF4C-06F5698FFBD9")) -Id 5 -Version 3 -Channel 16 -Level 4 -Opcode 0 -Task 1 -Keyword ([UInt64]"0x8000000000000000") -Parameters @($RuleName, $UtcTime, $ProcessGuid.ToByteArray(), $ProcessId, $Image)
+    Write-Etw -ProviderGuid ([System.Guid]::Parse("5770385F-C22A-43E0-BF4C-06F5698FFBD9")) -Id 5 -Version 3 -Channel 16 -Level 4 -Opcode 0 -Task 1 -Keyword ([Int64]"0x8000000000000000") -Parameters @($RuleName, $UtcTime, $ProcessGuid.ToByteArray(), $ProcessId, $Image)
 }
 
 Function Write-SysmonDriverLoad
@@ -303,7 +303,7 @@ Function Write-SysmonDriverLoad
     $SignatureStatus = ""
     )
 
-    Write-Etw -ProviderGuid ([System.Guid]::Parse("5770385F-C22A-43E0-BF4C-06F5698FFBD9")) -Id 6 -Version 4 -Channel 16 -Level 4 -Opcode 0 -Task 1 -Keyword ([UInt64]"0x8000000000000000") -Parameters @($RuleName, $UtcTime, $ImageLoaded, $Hashes, $Signed, $Signature, $SignatureStatus)
+    Write-Etw -ProviderGuid ([System.Guid]::Parse("5770385F-C22A-43E0-BF4C-06F5698FFBD9")) -Id 6 -Version 4 -Channel 16 -Level 4 -Opcode 0 -Task 1 -Keyword ([Int64]"0x8000000000000000") -Parameters @($RuleName, $UtcTime, $ImageLoaded, $Hashes, $Signed, $Signature, $SignatureStatus)
 }
 
 Function Write-SysmonImageLoad
@@ -370,7 +370,7 @@ Function Write-SysmonImageLoad
     $SignatureStatus = ""
     )
 
-    Write-Etw -ProviderGuid ([System.Guid]::Parse("5770385F-C22A-43E0-BF4C-06F5698FFBD9")) -Id 7 -Version 3 -Channel 16 -Level 4 -Opcode 0 -Task 1 -Keyword ([UInt64]"0x8000000000000000") -Parameters @($RuleName, $UtcTime, $ProcessGuid, $ProcessId, $Image, $ImageLoaded, $FileVersion, $Description, $Product, $Company, $OriginalFileName, $Hashes, $Signed, $Signature, $SignatureStatus)
+    Write-Etw -ProviderGuid ([System.Guid]::Parse("5770385F-C22A-43E0-BF4C-06F5698FFBD9")) -Id 7 -Version 3 -Channel 16 -Level 4 -Opcode 0 -Task 1 -Keyword ([Int64]"0x8000000000000000") -Parameters @($RuleName, $UtcTime, $ProcessGuid, $ProcessId, $Image, $ImageLoaded, $FileVersion, $Description, $Product, $Company, $OriginalFileName, $Hashes, $Signed, $Signature, $SignatureStatus)
 }
 
 Function Write-SysmonCreateRemoteThread
@@ -425,7 +425,7 @@ Function Write-SysmonCreateRemoteThread
     $StartFunction = ""
     )
 
-    Write-Etw -ProviderGuid ([System.Guid]::Parse("5770385F-C22A-43E0-BF4C-06F5698FFBD9")) -Id 8 -Version 2 -Channel 16 -Level 4 -Opcode 0 -Task 1 -Keyword ([UInt64]"0x8000000000000000") -Parameters @($RuleName, $UtcTime, $SourceProcessGuid, $SourceProcessId, $SourceImage, $TargetProcessGuid, $TargetImage, $NewThreadId, $StartAddress, $StartModule, $StartFunction)
+    Write-Etw -ProviderGuid ([System.Guid]::Parse("5770385F-C22A-43E0-BF4C-06F5698FFBD9")) -Id 8 -Version 2 -Channel 16 -Level 4 -Opcode 0 -Task 1 -Keyword ([Int64]"0x8000000000000000") -Parameters @($RuleName, $UtcTime, $SourceProcessGuid, $SourceProcessId, $SourceImage, $TargetProcessGuid, $TargetImage, $NewThreadId, $StartAddress, $StartModule, $StartFunction)
 }
 
 Function Write-SysmonRawAccessRead
@@ -456,5 +456,5 @@ Function Write-SysmonRawAccessRead
     $Device = ""
     )
 
-    Write-Etw -ProviderGuid ([System.Guid]::Parse("5770385F-C22A-43E0-BF4C-06F5698FFBD9")) -Id 9 -Version 2 -Channel 16 -Level 4 -Opcode 0 -Task 1 -Keyword ([UInt64]"0x8000000000000000") -Parameters @($RuleName, $UtcTime, $ProcessGuid.ToByteArray(), $ProcessId, $Image, $Device)
+    Write-Etw -ProviderGuid ([System.Guid]::Parse("5770385F-C22A-43E0-BF4C-06F5698FFBD9")) -Id 9 -Version 2 -Channel 16 -Level 4 -Opcode 0 -Task 1 -Keyword ([Int64]"0x8000000000000000") -Parameters @($RuleName, $UtcTime, $ProcessGuid.ToByteArray(), $ProcessId, $Image, $Device)
 }

@@ -109,12 +109,6 @@
     [String]
     $ElevatedToken = ""
     )
-
-	$SubjectUserSidByte = New-Object Byte[] $SubjectUserSid.BinaryLength
-	$SubjectUserSid.GetBinaryForm($SubjectUserSidByte, 0)
 	
-	$TargetUserSidByte = New-Object Byte[] $TargetUserSid.BinaryLength
-	$TargetUserSid.GetBinaryForm($TargetUserSidByte, 0)
-	
-    Write-Etw -ProviderGuid ([System.Guid]::Parse("54849625-5478-4994-A5BA-3E3B0328C30D")) -Id 4624 -Version 2 -Channel 10 -Level 0 -Opcode 0 -Task 12544 -Keyword ([UInt64]"0x8020000000000000") -Parameters @($SubjectUserSidByte, $SubjectUserName, $SubjectDomainName, $SubjectLogonId, $TargetUserSidByte, $TargetUserName, $TargetDomainName, $TargetLogonId, $LogonType, $LogonProcessName, $AuthenticationPackageName, $WorkstationName, $LogonGuid.ToByteArray(), $TransmittedServices, $LmPackageName, $KeyLength, $ProcessId, $ProcessName, $IpAddress, $IpPort, $ImpersonationLevel, $RestrictedAdminMode, $TargetOutboundUserName, $TargetOutboundDomainName, $VirtualAccount, $TargetLinkedLogonId, $ElevatedToken)
+    Write-Etw -ProviderGuid ([System.Guid]::Parse("54849625-5478-4994-A5BA-3E3B0328C30D")) -Id 4624 -Version 2 -Channel 10 -Level 0 -Opcode 0 -Task 12544 -Keyword ([UInt64]"0x8020000000000000") -Parameters @($SubjectUserSid, $SubjectUserName, $SubjectDomainName, $SubjectLogonId, $TargetUserSid, $TargetUserName, $TargetDomainName, $TargetLogonId, $LogonType, $LogonProcessName, $AuthenticationPackageName, $WorkstationName, $LogonGuid.ToByteArray(), $TransmittedServices, $LmPackageName, $KeyLength, $ProcessId, $ProcessName, $IpAddress, $IpPort, $ImpersonationLevel, $RestrictedAdminMode, $TargetOutboundUserName, $TargetOutboundDomainName, $VirtualAccount, $TargetLinkedLogonId, $ElevatedToken)
 }
