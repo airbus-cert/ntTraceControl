@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartArguments>-p Microsoft-Windows-PrintService -c 17 -s WMIActivity -o c:\work\test.ps1 -k 0x4000000000000000</StartArguments>
+  </PropertyGroup>
+</Project>

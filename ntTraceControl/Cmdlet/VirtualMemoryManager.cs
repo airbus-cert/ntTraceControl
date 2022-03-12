@@ -7,8 +7,15 @@ using System.Text;
 
 namespace ntTraceControl
 {
+    /// <summary>
+    /// Allow to use using keyword to manage VirtualAlloc API
+    /// </summary>
     public class VirtualMemoryManager : IDisposable
     {
+        /// <summary>
+        /// Allocation Type
+        /// see: https://docs.microsoft.com/en-us/windows/win32/api/memoryapi/nf-memoryapi-virtualallocex
+        /// </summary>
         [Flags]
         public enum AllocationType : uint
         {
@@ -23,6 +30,10 @@ namespace ntTraceControl
             LargePages = 0x20000000
         }
 
+        /// <summary>
+        /// Memory Protection
+        /// see: https://docs.microsoft.com/en-us/windows/win32/api/memoryapi/nf-memoryapi-virtualallocex
+        /// </summary>
         [Flags]
         public enum MemoryProtection : uint
         {
@@ -39,23 +50,70 @@ namespace ntTraceControl
             WriteCombineModifierflag = 0x400
         }
 
+        /// <summary>
+        /// Virtual Memory Allocation in a target process
+        /// see: https://docs.microsoft.com/en-us/windows/win32/api/memoryapi/nf-memoryapi-virtualallocex
+        /// </summary>
+        /// <param name="hProcess">Handle of the target process</param>
+        /// <param name="lpAddress">Prefered address</param>
+        /// <param name="dwSize">Size of the memory</param>
+        /// <param name="flAllocationType">Allocation type</param>
+        /// <param name="flProtect">Memory protection</param>
+        /// <returns></returns>
         [DllImport("kernel32.dll", SetLastError = true, ExactSpelling = true)]
         static extern IntPtr VirtualAllocEx(IntPtr hProcess, IntPtr lpAddress, UInt32 dwSize, AllocationType flAllocationType, MemoryProtection flProtect);
 
+        /// <summary>
+        /// Free Virtual Memory
+        /// </summary>
+        /// <param name="hProcess">Process handle</param>
+        /// <param name="lpAddress">address contains int the free page</param>
+        /// <param name="dwSize">Region size</param>
+        /// <param name="dwFreeType">Free type</param>
+        /// <returns></returns>
         [DllImport("kernel32.dll", SetLastError = true, ExactSpelling = true)]
         static extern bool VirtualFreeEx(IntPtr hProcess, IntPtr lpAddress, UInt32 dwSize, AllocationType dwFreeType);
 
+        /// <summary>
+        /// Write in a memory mapped in another process
+        /// </summary>
+        /// <param name="hProcess">Process handle</param>
+        /// <param name="lpBaseAddress">address start the write operation</param>
+        /// <param name="lpBuffer">Buffer to write</param>
+        /// <param name="nSize">size of the buffer</param>
+        /// <param name="lpNumberOfBytesWritten">number of byte written</param>
+        /// <returns></returns>
         [DllImport("kernel32.dll")]
         static extern bool WriteProcessMemory(IntPtr hProcess, IntPtr lpBaseAddress, byte[] lpBuffer, Int32 nSize, out UInt32 lpNumberOfBytesWritten);
 
+        /// <summary>
+        /// Process handle
+        /// </summary>
         public IntPtr Process { get; }
 
+        /// <summary>
+        /// Address of the memory region
+        /// </summary>
         public IntPtr Address { get; }
 
+        /// <summary>
+        /// Current address use for multi write operation
+        /// </summary>
         public IntPtr Pointer { get; set; }
 
+        /// <summary>
+        /// Size of the memory region
+        /// </summary>
         public UInt32 Size { get; }
 
+        /// <summary>
+        /// Start the virtual memory allocation
+        /// </summary>
+        /// <param name="Process">Process handle</param>
+        /// <param name="Address">Start </param>
+        /// <param name="Size"></param>
+        /// <param name="flAllocationType"></param>
+        /// <param name="flProtect"></param>
         public VirtualMemoryManager(IntPtr Process, IntPtr Address, UInt32 Size, AllocationType flAllocationType, MemoryProtection flProtect)
         {
             this.Process = Process;

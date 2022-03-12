@@ -71,6 +71,16 @@
 			$ParamByte = New-Object Byte[] 1
 			$ParamByte[0] = $Param
 		}
+		elseif ($Param.GetType() -eq [Bool])
+		{
+			# Force boolean to be handled on 4 bytes
+			$ParamByte = [System.BitConverter]::GetBytes([UInt32]$Param)
+		}
+		# Converting Datetime
+		elseif ($Param.GetType() -eq [System.DateTime])
+		{
+			$ParamByte = [System.BitConverter]::GetBytes($Param.ticks)
+		}
 		else
 		{
 			$ParamByte = [System.BitConverter]::GetBytes($Param)
