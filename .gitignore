@@ -7,3 +7,7 @@ Transluator/packages/
 Transluator/obj/
 Transluator/bin/
 Transluator/.vs/
+
+*.dll
+*.pdb
+*.xml
