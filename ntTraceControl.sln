@@ -3,11 +3,14 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32002.261
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ntTraceControl", "ntTraceControl.csproj", "{E9A388AB-42EF-4173-92D5-AB9F49F4370E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ntTraceControl", "ntTraceControl\ntTraceControl.csproj", "{E9A388AB-42EF-4173-92D5-AB9F49F4370E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Transluator", "..\Transluator\Transluator.csproj", "{C94A7057-8B74-40E4-803B-B389429B51AE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Transluator", "Transluator\Transluator.csproj", "{C94A7057-8B74-40E4-803B-B389429B51AE}"
 EndProject
-Project("{930C7802-8A8C-48F9-8165-68863BCCD9DD}") = "ntTraceControlInstall", "..\ntTraceControlInstall\ntTraceControlInstall.wixproj", "{3740C3CE-A458-4E28-8FBF-A59EA883DC0D}"
+Project("{930C7802-8A8C-48F9-8165-68863BCCD9DD}") = "ntTraceControlInstall", "ntTraceControlInstall\ntTraceControlInstall.wixproj", "{3740C3CE-A458-4E28-8FBF-A59EA883DC0D}"
+	ProjectSection(ProjectDependencies) = postProject
+		{E9A388AB-42EF-4173-92D5-AB9F49F4370E} = {E9A388AB-42EF-4173-92D5-AB9F49F4370E}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

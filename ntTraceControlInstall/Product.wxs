@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
+	<Product Id="*" Name="ntTraceControlInstall" Language="1033" Version="1.0.0.0" Manufacturer="Airbus CERT" UpgradeCode="ea3acb5e-742c-45f4-b1a1-c530ebd7d1fe">
+		<Package InstallerVersion="200" Compressed="yes" InstallScope="perMachine" />
+
+		<MajorUpgrade DowngradeErrorMessage="A newer version of [ProductName] is already installed." />
+		<MediaTemplate />
+
+		<Feature Id="ProductFeature" Title="ntTraceControlInstall" Level="1">
+			<ComponentGroupRef Id="ProductComponents" />
+		</Feature>
+	</Product>
+
+	<Fragment>
+		<Directory Id="TARGETDIR" Name="SourceDir">
+			<Directory Id="ProgramFiles64Folder">
+				<Directory Id="INSTALLFOLDER" Name="WindowsPowerShell" />
+			</Directory>
+		</Directory>
+		<DirectoryRef Id="INSTALLFOLDER">
+			<Directory Id="Modules" Name="Modules">
+				<Directory Id="ntTraceControl" Name="ntTraceControl">
+				</Directory>
+			</Directory>
+		</DirectoryRef>
+	</Fragment>
+
+	<Fragment>
+		<ComponentGroup Id="ProductComponents" Directory="ntTraceControl">
+			<Component Id="CmdLet" Guid="7cfc38c0-3830-42a4-9c34-ec4fdd22a5d8">
+				<File Id="ntTraceControl.dll" Source="..\ntTraceControl\ntTraceControl.dll" KeyPath="yes"/>
+			</Component>
+			<Component Id="Import" Guid="3078c55d-f023-46e0-9ad8-cdf56ff9ff0f">
+				<File Id="ntTraceControl.psd1" Source="..\ntTraceControl\ntTraceControl.psd1" KeyPath="yes"/>
+			</Component>
+			<Component Id="Module" Guid="7c7f5920-c766-4afe-bd41-e9b3409cd7dd">
+				<File Id="ntTraceControl.psm1" Source="..\ntTraceControl\ntTraceControl.psm1" KeyPath="yes"/>
+			</Component>
+			<Component Id="WriteEtw" Guid="8bdb7ca1-53d7-4707-a4d4-d9e2566ca1de">
+				<File Id="WriteEtw.ps1" Source="..\ntTraceControl\WriteEtw.ps1" KeyPath="yes"/>
+			</Component>
+			<Component Id="WriteEventLogRecord" Guid="f67ea968-3548-4e6f-94c5-4b310f65239f">
+				<File Id="WriteEventLogRecord.ps1" Source="..\ntTraceControl\WriteEventLogRecord.ps1" KeyPath="yes"/>
+			</Component>
+			<Component Id="WritePowershell" Guid="210169e5-28dd-41af-bdb1-bfdc681edaf6">
+				<File Id="WritePowershell.ps1" Source="..\ntTraceControl\WritePowershell.ps1" KeyPath="yes"/>
+			</Component>
+			<Component Id="WriteRdpCoreTS" Guid="6bab0c50-62f3-4a95-a73e-0fac143d3541">
+				<File Id="WriteRdpCoreTS.ps1" Source="..\ntTraceControl\WriteRdpCoreTS.ps1" KeyPath="yes"/>
+			</Component>
+			<Component Id="WriteRemoteConnectionManager" Guid="7b8722b8-3e61-4f4f-84c7-8526dfddffe4">
+				<File Id="WriteRemoteConnectionManager.ps1" Source="..\ntTraceControl\WriteRemoteConnectionManager.ps1" KeyPath="yes"/>
+			</Component>
+			<Component Id="WriteSecurity" Guid="46bf170f-29d9-42d4-ab50-c6c520c57883">
+				<File Id="WriteSecurity.ps1" Source="..\ntTraceControl\WriteSecurity.ps1" KeyPath="yes"/>
+			</Component>
+			<Component Id="WriteSysmon" Guid="66b5b1ce-49d2-4cf3-9f66-73e6e0ee221b">
+				<File Id="WriteSysmon.ps1" Source="..\ntTraceControl\WriteSysmon.ps1" KeyPath="yes"/>
+			</Component>
+			<Component Id="WriteWMIActivity" Guid="8be96883-8299-4a6a-8e7d-1c5d215c1114">
+				<File Id="WriteWMIActivity.ps1" Source="..\ntTraceControl\WriteWMIActivity.ps1" KeyPath="yes"/>
+			</Component>
+		</ComponentGroup>
+	</Fragment>
+</Wix>

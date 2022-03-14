@@ -11,3 +11,8 @@ Transluator/.vs/
 *.dll
 *.pdb
 *.xml
+
+ntTraceControlInstall/bin/
+ntTraceControlInstall/obj/
+
+.vs/
