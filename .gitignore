@@ -16,3 +16,5 @@ ntTraceControlInstall/bin/
 ntTraceControlInstall/obj/
 
 .vs/
+
+packages/
