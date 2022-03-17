@@ -36,7 +36,7 @@ For our example, we used the wonderful [EVTX-ATTACK-SAMPLES](https://github.com/
 ```
 Invoke-WebRequest -Uri https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES/raw/master/Credential%20Access/CA_teamviewer-dumper_sysmon_10.evtx -OutFile C:\Users\sylvain.COSMOS\Desktop\CA_teamviewer-dumper_sysmon_10.evtx
 
-Get-WinEvent -Path C:\Users\sylvain.COSMOS\Desktop\CA_teamviewer-dumper_sysmon_10.evtx | Write-EventLogRecord -Channel 10
+Get-WinEvent -Path C:\Users\sylvain.COSMOS\Desktop\CA_teamviewer-dumper_sysmon_10.evtx | ForEach-Object {$_ | Write-EventLogRecord -Channel 10}
 ```
 
 ![From an evtx file example 1](assets/example3.png)
@@ -44,7 +44,7 @@ Get-WinEvent -Path C:\Users\sylvain.COSMOS\Desktop\CA_teamviewer-dumper_sysmon_1
 ```
 Invoke-WebRequest -Uri https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES/raw/master/Credential%20Access/CA_DCSync_4662.evtx -OutFile C:\Users\sylvain.COSMOS\Desktop\CA_DCSync_4662.evtx
 
-Get-WinEvent -Path C:\Users\sylvain.COSMOS\Desktop\CA_DCSync_4662.evtx | Write-EventLogRecord -Channel 0
+Get-WinEvent -Path C:\Users\sylvain.COSMOS\Desktop\CA_DCSync_4662.evtx | ForEach-Object {$_ | Write-EventLogRecord -Channel 0}
 ```
 
 ![From an evtx file example 2](assets/example4.png)
