@@ -31,7 +31,7 @@ Write-SecurityEventId4624 -SubjectUserName "Welcome ntTraceControl" -SubjectDoma
 
 Modern Powershell includes cmdlet to parse windows logs files (.etvx) and produce EventLogRecord objects. ntTraceControl includes a dedicated cmdlet to write EventLogRecord objects. As the evtx file can include logs from different providers, we recommend using a system-privileged Powershell command.
 
-For our example, we used the wonderful EVTX-ATTACK-SAMPLES repository from @sbousseaden !
+For our example, we used the wonderful [EVTX-ATTACK-SAMPLES](https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES) repository from @sbousseaden !
 
 ```
 Invoke-WebRequest -Uri https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES/raw/master/Credential%20Access/CA_teamviewer-dumper_sysmon_10.evtx -OutFile C:\Users\sylvain.COSMOS\Desktop\CA_teamviewer-dumper_sysmon_10.evtx
@@ -61,6 +61,10 @@ Write-Etw -ProviderGuid ([System.Guid]::Parse("5770385f-c22a-43e0-bf4c-06f5698ff
 
 ![Write-Etw cmdlet example](assets/example5.png)
 
+# How to install
+
+An installer is provided at the [Release](https://github.com/airbus-cert/ntTraceControl/releases/) page ! It will install Powershell module for every users.
+
 # How it works
 
 We rely on NtTraceControl and NtTraceEvent syscall, to emit any kind of ETW.
@@ -81,6 +85,7 @@ Translator.exe -p Microsoft-Windows-Sysmon -c 17 -s Sysmon -o .\WriteSysmon.ps1 
 We generated functions for the following providers:
 
 |Name|GUID|CmdLet Pattern|
+|----|----|--------------|
 |Microsoft-Windows-PowerShell|a0c1853b-5c40-4b15-8766-3cf1c58f985a|Write-PowershellEventId*|
 |Microsoft-Windows-RemoteDesktopServices-RdpCoreTS|1139c61b-b549-4251-8ed3-27250a1edec8|Write-RdpCoreTSEventId*|
 |Microsoft-Windows-TerminalServices-RemoteConnectionManager|c76baa63-ae81-421c-b425-340b4b24157f|Write-RdpCoreTSEventId*|
@@ -90,6 +95,4 @@ We generated functions for the following providers:
 
 
 As generating new ones is only a call to the Transluator project, it will be easy to add more if needed.
-
-The following provider are supported:
 
