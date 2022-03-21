@@ -1,5 +1,5 @@
 
-# This module was generated automaticaly using Transluator.exe
+# This module was generated automaticaly using translator.exe
 # Some customs could be made afterwards to take into account some specificity of the provider (like Task or keywords arguments)
 # This is the module that handle the following provider
 # Name : Microsoft-Windows-PowerShell
@@ -10,10 +10,10 @@ Function Write-PowershellEventId4100
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : NoneTobeusedwhenanexceptionisraised_V1
 #>
@@ -39,10 +39,10 @@ Function Write-PowershellEventId4101
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : NoneTobeusedwhenanexceptionisraised4101_V1
 #>
@@ -68,10 +68,10 @@ Function Write-PowershellEventId4102
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : NoneTobeusedwhenanexceptionisraised4102_V1
 #>
@@ -97,10 +97,10 @@ Function Write-PowershellEventId4103
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : NoneTobeusedwhenanexceptionisraised4103_V1
 #>
@@ -126,10 +126,10 @@ Function Write-PowershellEventId4104
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 Version 1.1 Change Level and Task numbers to follow observing behavior not the one find in the template
 
 Symbol : StartingCommandOncreatecalls_V1
@@ -164,10 +164,10 @@ Function Write-PowershellEventId4105
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : StartingCommandOpen(async)_V1
 #>
@@ -189,10 +189,10 @@ Function Write-PowershellEventId4106
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : StoppingCommandClose(Async)_V1
 #>
@@ -214,10 +214,10 @@ Function Write-PowershellEventId7937
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : NoneTobeusedwhenoperationisjustexecutingamethod_V1
 #>
@@ -243,10 +243,10 @@ Function Write-PowershellEventId7938
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : NoneTobeusedwhenoperationisjustexecutingamethod7938_V1
 #>
@@ -272,10 +272,10 @@ Function Write-PowershellEventId7939
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : NoneTobeusedwhenoperationisjustexecutingamethod7939_V1
 #>
@@ -301,10 +301,10 @@ Function Write-PowershellEventId7940
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : NoneTobeusedwhenoperationisjustexecutingamethod7940_V1
 #>
@@ -330,10 +330,10 @@ Function Write-PowershellEventId7941
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_0Tobeusedwhenoperationisjustexecutingamethod_V1
 #>
@@ -355,10 +355,10 @@ Function Write-PowershellEventId7942
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : NoneTobeusedwhenoperationisjustexecutingamethod7942_V1
 #>
@@ -404,10 +404,10 @@ Function Write-PowershellEventId8193
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : ConnectOBEUSEDWHENANOBJECTISCONSTRUCTEDobeusedwhenanobjectisconstructed_V1
 #>
@@ -425,10 +425,10 @@ Function Write-PowershellEventId8194
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : ConnectOBEUSEDWHENANOBJECTISCONSTRUCTEDobeusedwhenanobjectisconstructed8194_V1
 #>
@@ -454,10 +454,10 @@ Function Write-PowershellEventId8197
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : ConnectOpen(async)8197_V1
 #>
@@ -475,10 +475,10 @@ Function Write-PowershellEventId8198
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : ConnectOpen(async)8198_V1
 #>
@@ -504,10 +504,10 @@ Function Write-PowershellEventId12033
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : ConnectTobeusedwhenoperationisjustexecutingamethod12033_V1
 #>
@@ -525,10 +525,10 @@ Function Write-PowershellEventId12034
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : ConnectTobeusedwhenoperationisjustexecutingamethod12034_V1
 #>
@@ -546,10 +546,10 @@ Function Write-PowershellEventId12035
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : ConnectTobeusedwhenoperationisjustexecutingamethod12035_V1
 #>
@@ -567,10 +567,10 @@ Function Write-PowershellEventId12036
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : ConnectTobeusedwhenoperationisjustexecutingamethod12036_V1
 #>
@@ -588,10 +588,10 @@ Function Write-PowershellEventId12038
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : ConnectTobeusedwhenoperationisjustexecutingamethod12038_V1
 #>
@@ -649,10 +649,10 @@ Function Write-PowershellEventId24577
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : PowerShellISEOperation_V1
 #>
@@ -670,10 +670,10 @@ Function Write-PowershellEventId24578
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : PowerShellISEOperation24578_V1
 #>
@@ -691,10 +691,10 @@ Function Write-PowershellEventId24595
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : PowerShellISEOperation24595_V1
 #>
@@ -716,10 +716,10 @@ Function Write-PowershellEventId24596
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : PowerShellISEOperation24596_V1
 #>
@@ -741,10 +741,10 @@ Function Write-PowershellEventId24597
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : PowerShellISEOperation24597_V1
 #>
@@ -766,10 +766,10 @@ Function Write-PowershellEventId24598
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : PowerShellISEOperation24598_V1
 #>
@@ -791,10 +791,10 @@ Function Write-PowershellEventId24599
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : PowerShellISEOperation24599_V1
 #>
@@ -816,10 +816,10 @@ Function Write-PowershellEventId28673
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : SerializeordeserializeremotingpayloadRehydration_V1
 #>
@@ -845,10 +845,10 @@ Function Write-PowershellEventId28674
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : SerializeordeserializeremotingpayloadRehydration28674_V1
 #>
@@ -878,10 +878,10 @@ Function Write-PowershellEventId28675
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : SerializeordeserializeremotingpayloadSerializationsettings_V1
 #>
@@ -911,10 +911,10 @@ Function Write-PowershellEventId28676
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : SerializeordeserializeremotingpayloadSerializationsettings28676_V1
 #>
@@ -936,10 +936,10 @@ Function Write-PowershellEventId28677
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : SerializeordeserializeremotingpayloadTobeusedwhenanexceptionisraised_V1
 #>
@@ -965,10 +965,10 @@ Function Write-PowershellEventId28678
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : SerializeordeserializeremotingpayloadTobeusedwhenanexceptionisraised28678_V1
 #>
@@ -998,10 +998,10 @@ Function Write-PowershellEventId28679
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : SerializeordeserializeremotingpayloadTobeusedwhenanexceptionisraised28679_V1
 #>
@@ -1023,10 +1023,10 @@ Function Write-PowershellEventId28680
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : SerializeordeserializeremotingpayloadTobeusedwhenanexceptionisraised28680_V1
 #>
@@ -1048,10 +1048,10 @@ Function Write-PowershellEventId28682
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : SerializeordeserializeremotingpayloadTobeusedwhenanexceptionisraised28682_V1
 #>
@@ -1077,10 +1077,10 @@ Function Write-PowershellEventId28683
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : SerializeordeserializeremotingpayloadTobeusedwhenanexceptionisraised28683_V1
 #>
@@ -1106,10 +1106,10 @@ Function Write-PowershellEventId28684
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : SerializeordeserializeremotingpayloadTobeusedwhenanexceptionisraised28684_V1
 #>
@@ -1131,10 +1131,10 @@ Function Write-PowershellEventId32769
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_0Receive(Async)_V1
 #>
@@ -1168,10 +1168,10 @@ Function Write-PowershellEventId32775
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_0Open(async)_V1
 #>
@@ -1197,10 +1197,10 @@ Function Write-PowershellEventId32776
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_0Open(async)32776_V1
 #>
@@ -1234,10 +1234,10 @@ Function Write-PowershellEventId32777
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_0Open(async)32777_V1
 #>
@@ -1263,10 +1263,10 @@ Function Write-PowershellEventId32784
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_0Open(async)32784_V1
 #>
@@ -1300,10 +1300,10 @@ Function Write-PowershellEventId32785
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_0ONNECTonnect_V1
 #>
@@ -1321,10 +1321,10 @@ Function Write-PowershellEventId32786
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_0ONNECTonnect32786_V1
 #>
@@ -1342,10 +1342,10 @@ Function Write-PowershellEventId32787
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_0Disconnect_V1
 #>
@@ -1363,10 +1363,10 @@ Function Write-PowershellEventId32788
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_0Disconnect32788_V1
 #>
@@ -1384,10 +1384,10 @@ Function Write-PowershellEventId32789
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_0Send(Async)_V1
 #>
@@ -1413,10 +1413,10 @@ Function Write-PowershellEventId32790
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_0Send(Async)32790_V1
 #>
@@ -1438,10 +1438,10 @@ Function Write-PowershellEventId32791
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_0Receive(Async)32791_V1
 #>
@@ -1463,10 +1463,10 @@ Function Write-PowershellEventId32792
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_0Receive(Async)32792_V1
 #>
@@ -1492,10 +1492,10 @@ Function Write-PowershellEventId32793
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_0ONNECTonnect32793_V1
 #>
@@ -1517,10 +1517,10 @@ Function Write-PowershellEventId32800
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_0ONNECTonnect32800_V1
 #>
@@ -1542,10 +1542,10 @@ Function Write-PowershellEventId32801
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_0Disconnect32801_V1
 #>
@@ -1567,10 +1567,10 @@ Function Write-PowershellEventId32802
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_0Disconnect32802_V1
 #>
@@ -1592,10 +1592,10 @@ Function Write-PowershellEventId32803
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_0Disconnect32803_V1
 #>
@@ -1621,10 +1621,10 @@ Function Write-PowershellEventId32804
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_0Disconnect32804_V1
 #>
@@ -1646,10 +1646,10 @@ Function Write-PowershellEventId32805
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_0ONNECTonnect32805_V1
 #>
@@ -1671,10 +1671,10 @@ Function Write-PowershellEventId32849
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_0Send(Async)32849_V1
 #>
@@ -1708,10 +1708,10 @@ Function Write-PowershellEventId32850
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_0ONNECTonnect32850_V1
 #>
@@ -1737,10 +1737,10 @@ Function Write-PowershellEventId32851
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_0ONNECTonnect32851_V1
 #>
@@ -1762,10 +1762,10 @@ Function Write-PowershellEventId32852
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_0ONNECTonnect32852_V1
 #>
@@ -1795,10 +1795,10 @@ Function Write-PowershellEventId32853
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_0ONNECTonnect32853_V1
 #>
@@ -1820,10 +1820,10 @@ Function Write-PowershellEventId32854
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_0Disconnect32854_V1
 #>
@@ -1849,10 +1849,10 @@ Function Write-PowershellEventId32855
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_0Open(async)32855_V1
 #>
@@ -1878,10 +1878,10 @@ Function Write-PowershellEventId32856
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_0Open(async)32856_V1
 #>
@@ -1907,10 +1907,10 @@ Function Write-PowershellEventId32857
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_0Disconnect32857_V1
 #>
@@ -1936,10 +1936,10 @@ Function Write-PowershellEventId32865
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_0ONNECTonnect32865_V1
 #>
@@ -1961,10 +1961,10 @@ Function Write-PowershellEventId32866
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_0ONNECTonnect32866_V1
 #>
@@ -1986,10 +1986,10 @@ Function Write-PowershellEventId32867
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_0Receive(Async)32867_V1
 #>
@@ -2027,10 +2027,10 @@ Function Write-PowershellEventId32868
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_0Send(Async)32868_V1
 #>
@@ -2068,10 +2068,10 @@ Function Write-PowershellEventId45057
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : NoneTobeusedwhenanexceptionisraised45057_V1
 #>
@@ -2117,10 +2117,10 @@ Function Write-PowershellEventId45058
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : NoneTobeusedwhenanexceptionisraised45058_V1
 #>
@@ -2146,10 +2146,10 @@ Function Write-PowershellEventId45060
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : NoneTobeusedwhenoperationisjustexecutingamethod45060_V1
 #>
@@ -2187,10 +2187,10 @@ Function Write-PowershellEventId45061
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : None45061_V1
 #>
@@ -2208,10 +2208,10 @@ Function Write-PowershellEventId45062
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : NoneTobeusedwhenoperationisjustexecutingamethod45062_V1
 #>
@@ -2269,10 +2269,10 @@ Function Write-PowershellEventId45063
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : WorkflowHostingTobeusedwhenoperationisjustexecutingamethod_V1
 #>
@@ -2306,10 +2306,10 @@ Function Write-PowershellEventId45064
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : WorkflowExecutionTobeusedwhenoperationisjustexecutingamethod_V1
 #>
@@ -2331,10 +2331,10 @@ Function Write-PowershellEventId45065
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : WorkflowExecutionTobeusedwhenoperationisjustexecutingamethod45065_V1
 #>
@@ -2360,10 +2360,10 @@ Function Write-PowershellEventId45072
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : WorkflowHostingTobeusedwhenoperationisjustexecutingamethod45072_V1
 #>
@@ -2381,10 +2381,10 @@ Function Write-PowershellEventId45073
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : WorkflowHostingTobeusedwhenoperationisjustexecutingamethod45073_V1
 #>
@@ -2402,10 +2402,10 @@ Function Write-PowershellEventId45074
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : WorkflowExecutionTobeusedwhenoperationisjustexecutingamethod45074_V1
 #>
@@ -2423,10 +2423,10 @@ Function Write-PowershellEventId45075
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : WorkflowExecutionTobeusedwhenoperationisjustexecutingamethod45075_V1
 #>
@@ -2456,10 +2456,10 @@ Function Write-PowershellEventId45076
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : WorkflowExecutionTobeusedwhenoperationisjustexecutingamethod45076_V1
 #>
@@ -2477,10 +2477,10 @@ Function Write-PowershellEventId45078
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : WorkflowExecutionTobeusedwhenoperationisjustexecutingamethod45078_V1
 #>
@@ -2502,10 +2502,10 @@ Function Write-PowershellEventId45079
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : WorkflowExecutionTobeusedwhenoperationisjustexecutingamethod45079_V1
 #>
@@ -2527,10 +2527,10 @@ Function Write-PowershellEventId45080
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : WorkflowExecutionTobeusedwhenoperationisjustexecutingamethod45080_V1
 #>
@@ -2552,10 +2552,10 @@ Function Write-PowershellEventId45081
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : WorkflowExecutionTobeusedwhenoperationisjustexecutingamethod45081_V1
 #>
@@ -2577,10 +2577,10 @@ Function Write-PowershellEventId45082
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : WorkflowExecutionTobeusedwhenoperationisjustexecutingamethod45082_V1
 #>
@@ -2602,10 +2602,10 @@ Function Write-PowershellEventId45083
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : WorkflowExecutionTobeusedwhenoperationisjustexecutingamethod45083_V1
 #>
@@ -2627,10 +2627,10 @@ Function Write-PowershellEventId45084
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : WorkflowValidationTobeusedwhenoperationisjustexecutingamethod_V1
 #>
@@ -2648,10 +2648,10 @@ Function Write-PowershellEventId45085
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : WorkflowValidationTobeusedwhenoperationisjustexecutingamethod45085_V1
 #>
@@ -2669,10 +2669,10 @@ Function Write-PowershellEventId45086
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : WorkflowValidationTobeusedwhenoperationisjustexecutingamethod45086_V1
 #>
@@ -2690,10 +2690,10 @@ Function Write-PowershellEventId45087
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : WorkflowExecutionTobeusedwhenoperationisjustexecutingamethod45087_V1
 #>
@@ -2719,10 +2719,10 @@ Function Write-PowershellEventId45088
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : WorkflowValidationTobeusedwhenoperationisjustexecutingamethod45088_V1
 #>
@@ -2748,10 +2748,10 @@ Function Write-PowershellEventId45089
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : WorkflowExecutionTobeusedwhenoperationisjustexecutingamethod45089_V1
 #>
@@ -2777,10 +2777,10 @@ Function Write-PowershellEventId45090
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : WorkflowExecutionTobeusedwhenoperationisjustexecutingamethod45090_V1
 #>
@@ -2802,10 +2802,10 @@ Function Write-PowershellEventId45091
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : WorkflowExecutionTobeusedwhenoperationisjustexecutingamethod45091_V1
 #>
@@ -2831,10 +2831,10 @@ Function Write-PowershellEventId45092
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : WorkflowExecutionTobeusedwhenoperationisjustexecutingamethod45092_V1
 #>
@@ -2852,10 +2852,10 @@ Function Write-PowershellEventId45093
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : WorkflowExecutionTobeusedwhenoperationisjustexecutingamethod45093_V1
 #>
@@ -2873,10 +2873,10 @@ Function Write-PowershellEventId45094
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : WorkflowExecutionTobeusedwhenoperationisjustexecutingamethod45094_V1
 #>
@@ -2894,10 +2894,10 @@ Function Write-PowershellEventId45095
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : WorkflowExecutionTobeusedwhenoperationisjustexecutingamethod45095_V1
 #>
@@ -2915,10 +2915,10 @@ Function Write-PowershellEventId45096
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : WorkflowExecutionTobeusedwhenoperationisjustexecutingamethod45096_V1
 #>
@@ -2936,10 +2936,10 @@ Function Write-PowershellEventId45097
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : WorkflowExecutionTobeusedwhenoperationisjustexecutingamethod45097_V1
 #>
@@ -2961,10 +2961,10 @@ Function Write-PowershellEventId45098
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : WorkflowExecutionTobeusedwhenoperationisjustexecutingamethod45098_V1
 #>
@@ -2986,10 +2986,10 @@ Function Write-PowershellEventId45100
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : WorkflowExecutionTobeusedwhenoperationisjustexecutingamethod45100_V1
 #>
@@ -3007,10 +3007,10 @@ Function Write-PowershellEventId45101
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : WorkflowExecutionTobeusedwhenoperationisjustexecutingamethod45101_V1
 #>
@@ -3040,10 +3040,10 @@ Function Write-PowershellEventId45102
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : WorkflowExecutionTobeusedwhenoperationisjustexecutingamethod45102_V1
 #>
@@ -3069,10 +3069,10 @@ Function Write-PowershellEventId45104
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : WorkflowExecutionTobeusedwhenoperationisjustexecutingamethod45104_V1
 #>
@@ -3098,10 +3098,10 @@ Function Write-PowershellEventId45105
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : WorkflowExecutionTobeusedwhenoperationisjustexecutingamethod45105_V1
 #>
@@ -3119,10 +3119,10 @@ Function Write-PowershellEventId45106
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : WorkflowExecutionTobeusedwhenoperationisjustexecutingamethod45106_V1
 #>
@@ -3144,10 +3144,10 @@ Function Write-PowershellEventId45107
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : WorkflowExecutionTobeusedwhenoperationisjustexecutingamethod45107_V1
 #>
@@ -3173,10 +3173,10 @@ Function Write-PowershellEventId45108
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : WorkflowExecutionTobeusedwhenoperationisjustexecutingamethod45108_V1
 #>
@@ -3206,10 +3206,10 @@ Function Write-PowershellEventId45109
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : WorkflowExecutionTobeusedwhenoperationisjustexecutingamethod45109_V1
 #>
@@ -3227,10 +3227,10 @@ Function Write-PowershellEventId45110
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : WorkflowExecutionTobeusedwhenoperationisjustexecutingamethod45110_V1
 #>
@@ -3248,10 +3248,10 @@ Function Write-PowershellEventId45111
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : WorkflowExecutionTobeusedwhenoperationisjustexecutingamethod45111_V1
 #>
@@ -3269,10 +3269,10 @@ Function Write-PowershellEventId45112
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : WorkflowExecutionTobeusedwhenoperationisjustexecutingamethod45112_V1
 #>
@@ -3294,10 +3294,10 @@ Function Write-PowershellEventId45113
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : WorkflowExecutionTobeusedwhenoperationisjustexecutingamethod45113_V1
 #>
@@ -3315,10 +3315,10 @@ Function Write-PowershellEventId45114
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : WorkflowExecutionTobeusedwhenoperationisjustexecutingamethod45114_V1
 #>
@@ -3336,10 +3336,10 @@ Function Write-PowershellEventId45115
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : WorkflowExecutionTobeusedwhenoperationisjustexecutingamethod45115_V1
 #>
@@ -3357,10 +3357,10 @@ Function Write-PowershellEventId45116
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : WorkflowExecutionTobeusedwhenoperationisjustexecutingamethod45116_V1
 #>
@@ -3382,10 +3382,10 @@ Function Write-PowershellEventId45117
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : WorkflowExecutionTobeusedwhenoperationisjustexecutingamethod45117_V1
 #>
@@ -3407,10 +3407,10 @@ Function Write-PowershellEventId45118
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : WorkflowExecutionTobeusedwhenoperationisjustexecutingamethod45118_V1
 #>
@@ -3428,10 +3428,10 @@ Function Write-PowershellEventId45119
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : WorkflowExecutionTobeusedwhenoperationisjustexecutingamethod45119_V1
 #>
@@ -3449,10 +3449,10 @@ Function Write-PowershellEventId45120
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : WorkflowExecutionTobeusedwhenoperationisjustexecutingamethod45120_V1
 #>
@@ -3474,10 +3474,10 @@ Function Write-PowershellEventId45121
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : ConfigurationTobeusedwhenoperationisjustexecutingamethod_V1
 #>
@@ -3503,10 +3503,10 @@ Function Write-PowershellEventId45122
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : ConfigurationTobeusedwhenoperationisjustexecutingamethod45122_V1
 #>
@@ -3528,10 +3528,10 @@ Function Write-PowershellEventId45123
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : ConfigurationTobeusedwhenoperationisjustexecutingamethod45123_V1
 #>
@@ -3553,10 +3553,10 @@ Function Write-PowershellEventId45124
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : ConfigurationTobeusedwhenoperationisjustexecutingamethod45124_V1
 #>
@@ -3578,10 +3578,10 @@ Function Write-PowershellEventId45125
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : ConfigurationTobeusedwhenoperationisjustexecutingamethod45125_V1
 #>
@@ -3603,10 +3603,10 @@ Function Write-PowershellEventId45126
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : WorkflowExecutionTobeusedwhenoperationisjustexecutingamethod45126_V1
 #>
@@ -3624,10 +3624,10 @@ Function Write-PowershellEventId45127
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : WorkflowExecutionTobeusedwhenoperationisjustexecutingamethod45127_V1
 #>
@@ -3649,10 +3649,10 @@ Function Write-PowershellEventId45128
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : WorkflowHostingTobeusedwhenoperationisjustexecutingamethod45128_V1
 #>
@@ -3670,10 +3670,10 @@ Function Write-PowershellEventId45129
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : None45129_V1
 #>
@@ -3703,10 +3703,10 @@ Function Write-PowershellEventId46337
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : None46337_V1
 #>
@@ -3724,10 +3724,10 @@ Function Write-PowershellEventId46338
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : None46338_V1
 #>
@@ -3745,10 +3745,10 @@ Function Write-PowershellEventId46339
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : None46339_V1
 #>
@@ -3766,10 +3766,10 @@ Function Write-PowershellEventId46340
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : None46340_V1
 #>
@@ -3787,10 +3787,10 @@ Function Write-PowershellEventId46341
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : None46341_V1
 #>
@@ -3812,10 +3812,10 @@ Function Write-PowershellEventId46342
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : None46342_V1
 #>
@@ -3833,10 +3833,10 @@ Function Write-PowershellEventId46343
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : None46343_V1
 #>
@@ -3854,10 +3854,10 @@ Function Write-PowershellEventId46344
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : None46344_V1
 #>
@@ -3875,10 +3875,10 @@ Function Write-PowershellEventId46345
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : None46345_V1
 #>
@@ -3896,10 +3896,10 @@ Function Write-PowershellEventId46346
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : None46346_V1
 #>
@@ -3921,10 +3921,10 @@ Function Write-PowershellEventId46347
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : None46347_V1
 #>
@@ -3946,10 +3946,10 @@ Function Write-PowershellEventId46348
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : None46348_V1
 #>
@@ -3967,10 +3967,10 @@ Function Write-PowershellEventId46349
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : None46349_V1
 #>
@@ -3988,10 +3988,10 @@ Function Write-PowershellEventId46350
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : None46350_V1
 #>
@@ -4009,10 +4009,10 @@ Function Write-PowershellEventId46351
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : None46351_V1
 #>
@@ -4030,10 +4030,10 @@ Function Write-PowershellEventId46352
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : None46352_V1
 #>
@@ -4051,10 +4051,10 @@ Function Write-PowershellEventId46353
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : None46353_V1
 #>
@@ -4072,10 +4072,10 @@ Function Write-PowershellEventId46354
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : None46354_V1
 #>
@@ -4093,10 +4093,10 @@ Function Write-PowershellEventId46355
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : None46355_V1
 #>
@@ -4114,10 +4114,10 @@ Function Write-PowershellEventId49152
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : None49152_V1
 #>
@@ -4135,10 +4135,10 @@ Function Write-PowershellEventId49153
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : None49153_V1
 #>
@@ -4160,10 +4160,10 @@ Function Write-PowershellEventId53249
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : PowerShellScheduledJobsTobeusedwhenoperationisjustexecutingamethod_V1
 #>
@@ -4185,10 +4185,10 @@ Function Write-PowershellEventId53250
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : PowerShellScheduledJobsTobeusedwhenoperationisjustexecutingamethod53250_V1
 #>
@@ -4214,10 +4214,10 @@ Function Write-PowershellEventId53251
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : PowerShellScheduledJobsTobeusedwhenanexceptionisraised_V1
 #>
@@ -4247,10 +4247,10 @@ Function Write-PowershellEventId53504
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : PowerShellNamedPipeIPCOpen(async)_V1
 #>
@@ -4272,10 +4272,10 @@ Function Write-PowershellEventId53505
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : PowerShellNamedPipeIPCClose(Async)_V1
 #>
@@ -4297,10 +4297,10 @@ Function Write-PowershellEventId53506
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : PowerShellNamedPipeIPCTobeusedwhenanexceptionisraised_V1
 #>
@@ -4326,10 +4326,10 @@ Function Write-PowershellEventId53507
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : PowerShellNamedPipeIPCONNECTonnect_V1
 #>
@@ -4355,10 +4355,10 @@ Function Write-PowershellEventId53508
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : PowerShellNamedPipeIPCClose(Async)53508_V1
 #>

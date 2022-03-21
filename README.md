@@ -1,18 +1,18 @@
 # ntTraceControl -- Powershell Event Tracing Toolbox
 
-ntTraceControl is a set of Powershell commands to `forge (generate)` Windows logs. Thus, ntTraceControl supports Detection teams to simply test detection use cases and alerts without using complex infrastructure, tools, or testing vulnerability.
+ntTraceControl is a set of Powershell commands to forge/generate Windows logs. Simply put, ntTraceControl supports Detection teams by simplifying the testing of detection use cases and alerts without using complex infrastructure, tools, or the testing of vulnerabilities.
 
 # Use Cases
 
 ## Generate command line : Write Sysmon Create Process Event
 
-Many detection teams rely on Sysmon to create advanced detection rules. ntTraceControl includes dedicated cmdlets for Sysmon through Write-SysmonEventId*:
+Many detection teams rely upon Sysmon to create advanced detection rules. ntTraceControl includes dedicated cmdlets for Sysmon through Write-SysmonEventId*:
 
 ```
 Write-SysmonEventId1 -Image mimikatz.exe -CommandLine "c:\Users\Admin\personal\mimikatz.exe" -ParentCommandLine "Get-Password.ps1"
 ```
 
-Thus, you can esaily generate a `fake` command line and test your use cases and alerts.
+Therefore, you can easily generate a `fake` command line to test your use cases and alerts.
 
 ![Sysmon Process Create Example](assets/example1.png)
 
@@ -74,7 +74,7 @@ In most cases, administrator rights are needed to produce a log.
 
 For security reasons, the Microsoft-Windows-Audit-Security provider is not managed using the straight API. Only the lsass process can emit Security logs. To simulate security logs, ntTraceControl will inject a payload into the lsass.exe process to call the proper API. So to achieve injection you must have system privileges.
 
-Next, the Transluator project is used to create Powershell functions, with strong type enforcement deduced from the ETW provider manifest. Sometimes we have to customize a little bit what is automatically extracted from the manifest, this is why we versioned the output files.
+Next, the Translator project is used to create Powershell functions, with strong type enforcement deduced from the ETW provider manifest. Sometimes we have to customize a little bit what is automatically extracted from the manifest, this is why we versioned the output files.
 
 For example the following command will Generate WriteSysmon.ps1 :
 
@@ -94,5 +94,5 @@ We generated functions for the following providers:
 |Microsoft-Windows-WMI-Activity|1418ef04-b0b4-4623-bf7e-d74ab47bbdaa|Write-WMIActivityEventId*|
 
 
-As generating new ones is only a call to the Transluator project, it will be easy to add more if needed.
+As generating new ones is only a call to the Translator project, it will be easy to add more if needed.
 

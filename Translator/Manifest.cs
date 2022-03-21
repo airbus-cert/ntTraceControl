@@ -4,7 +4,7 @@ using System.Xml.Serialization;
 using System.IO;
 using System.Collections.Generic;
 
-namespace Transluator
+namespace Translator
 {
     [XmlType("map")]
     public class Map

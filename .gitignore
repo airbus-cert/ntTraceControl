@@ -3,18 +3,18 @@ ntTraceControl/obj/
 ntTraceControl/bin/
 ntTraceControl/.vs/
 
-Transluator/packages/
-Transluator/obj/
-Transluator/bin/
-Transluator/.vs/
+Translator/packages/
+Translator/obj/
+Translator/bin/
+Translator/.vs/
 
 *.dll
 *.pdb
 *.xml
+*.user
 
 ntTraceControlInstall/bin/
 ntTraceControlInstall/obj/
 
 .vs/
-
 packages/

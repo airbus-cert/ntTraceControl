@@ -1,5 +1,5 @@
 
-# This module was generated automaticaly using Transluator.exe
+# This module was generated automaticaly using translator.exe
 # Some customs could be made afterwards to take into account some specificity of the provider (like Task or keywords arguments)
 # This is the module that handle the following provider
 # Name : Microsoft-Windows-TerminalServices-RemoteConnectionManager
@@ -10,10 +10,10 @@ Function Write-RemoteConnectionManagerEventId2
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_0
 #>
@@ -31,10 +31,10 @@ Function Write-RemoteConnectionManagerEventId3
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_03
 #>
@@ -52,10 +52,10 @@ Function Write-RemoteConnectionManagerEventId4
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_04
 #>
@@ -73,10 +73,10 @@ Function Write-RemoteConnectionManagerEventId5
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_05
 #>
@@ -94,10 +94,10 @@ Function Write-RemoteConnectionManagerEventId6
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_06
 #>
@@ -115,10 +115,10 @@ Function Write-RemoteConnectionManagerEventId7
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_07
 #>
@@ -136,10 +136,10 @@ Function Write-RemoteConnectionManagerEventId8
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_08
 #>
@@ -157,10 +157,10 @@ Function Write-RemoteConnectionManagerEventId9
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_09
 #>
@@ -178,10 +178,10 @@ Function Write-RemoteConnectionManagerEventId257
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_0Stop
 #>
@@ -199,10 +199,10 @@ Function Write-RemoteConnectionManagerEventId258
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_0258
 #>
@@ -220,10 +220,10 @@ Function Write-RemoteConnectionManagerEventId259
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_0259
 #>
@@ -241,10 +241,10 @@ Function Write-RemoteConnectionManagerEventId260
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_0260
 #>
@@ -266,10 +266,10 @@ Function Write-RemoteConnectionManagerEventId261
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_0261
 #>
@@ -287,10 +287,10 @@ Function Write-RemoteConnectionManagerEventId262
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_0262
 #>
@@ -308,10 +308,10 @@ Function Write-RemoteConnectionManagerEventId272
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : ConnectionTimeStart
 #>
@@ -329,10 +329,10 @@ Function Write-RemoteConnectionManagerEventId273
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : ConnectionTimeStop
 #>
@@ -362,10 +362,10 @@ Function Write-RemoteConnectionManagerEventId274
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : ConnectionTimeStop274
 #>
@@ -391,10 +391,10 @@ Function Write-RemoteConnectionManagerEventId1003
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_01003
 #>
@@ -412,10 +412,10 @@ Function Write-RemoteConnectionManagerEventId1011
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_01011
 #>
@@ -433,10 +433,10 @@ Function Write-RemoteConnectionManagerEventId1137
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_01137
 #>
@@ -454,10 +454,10 @@ Function Write-RemoteConnectionManagerEventId1138
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_01138
 #>
@@ -475,10 +475,10 @@ Function Write-RemoteConnectionManagerEventId1139
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_01139
 #>
@@ -496,10 +496,10 @@ Function Write-RemoteConnectionManagerEventId1140
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_01140
 #>
@@ -517,10 +517,10 @@ Function Write-RemoteConnectionManagerEventId1141
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_01141
 #>
@@ -538,10 +538,10 @@ Function Write-RemoteConnectionManagerEventId1144
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_01144
 #>
@@ -567,10 +567,10 @@ Function Write-RemoteConnectionManagerEventId1145
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_01145
 #>
@@ -592,10 +592,10 @@ Function Write-RemoteConnectionManagerEventId1146
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_01146
 #>
@@ -621,10 +621,10 @@ Function Write-RemoteConnectionManagerEventId1147
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_01147
 #>
@@ -650,10 +650,10 @@ Function Write-RemoteConnectionManagerEventId1148
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_01148
 #>
@@ -679,10 +679,10 @@ Function Write-RemoteConnectionManagerEventId1149
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_01149
 #>
@@ -708,10 +708,10 @@ Function Write-RemoteConnectionManagerEventId1150
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_01150
 #>
@@ -737,10 +737,10 @@ Function Write-RemoteConnectionManagerEventId1151
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_01151
 #>
@@ -766,10 +766,10 @@ Function Write-RemoteConnectionManagerEventId1152
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_01152
 #>
@@ -787,10 +787,10 @@ Function Write-RemoteConnectionManagerEventId1153
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_01153
 #>
@@ -808,10 +808,10 @@ Function Write-RemoteConnectionManagerEventId1157
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_01157
 #>
@@ -829,10 +829,10 @@ Function Write-RemoteConnectionManagerEventId1158
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_01158
 #>
@@ -850,10 +850,10 @@ Function Write-RemoteConnectionManagerEventId1280
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_01280
 #>
@@ -879,10 +879,10 @@ Function Write-RemoteConnectionManagerEventId1281
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_01281
 #>
@@ -908,10 +908,10 @@ Function Write-RemoteConnectionManagerEventId1282
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_01282
 #>
@@ -933,10 +933,10 @@ Function Write-RemoteConnectionManagerEventId1283
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_01283
 #>
@@ -958,10 +958,10 @@ Function Write-RemoteConnectionManagerEventId1284
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_01284
 #>
@@ -983,10 +983,10 @@ Function Write-RemoteConnectionManagerEventId1285
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_01285
 #>
@@ -1008,10 +1008,10 @@ Function Write-RemoteConnectionManagerEventId1286
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_01286
 #>
@@ -1029,10 +1029,10 @@ Function Write-RemoteConnectionManagerEventId1287
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_01287
 #>
@@ -1050,10 +1050,10 @@ Function Write-RemoteConnectionManagerEventId1288
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_01288
 #>
@@ -1075,10 +1075,10 @@ Function Write-RemoteConnectionManagerEventId1289
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_01289
 #>
@@ -1100,10 +1100,10 @@ Function Write-RemoteConnectionManagerEventId2304
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : SessionArbitrationStart
 #>
@@ -1121,10 +1121,10 @@ Function Write-RemoteConnectionManagerEventId2305
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : SessionArbitrationStop
 #>
@@ -1142,10 +1142,10 @@ Function Write-RemoteConnectionManagerEventId2306
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : NotifyLogonToLicensingStart
 #>
@@ -1167,10 +1167,10 @@ Function Write-RemoteConnectionManagerEventId2307
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : NotifyLogonToLicensingStop
 #>
@@ -1192,10 +1192,10 @@ Function Write-RemoteConnectionManagerEventId20482
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_020482
 #>
@@ -1217,10 +1217,10 @@ Function Write-RemoteConnectionManagerEventId20483
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_020483
 #>
@@ -1242,10 +1242,10 @@ Function Write-RemoteConnectionManagerEventId20484
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_020484
 #>
@@ -1267,10 +1267,10 @@ Function Write-RemoteConnectionManagerEventId20485
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_020485
 #>
@@ -1292,10 +1292,10 @@ Function Write-RemoteConnectionManagerEventId20486
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_020486
 #>
@@ -1317,10 +1317,10 @@ Function Write-RemoteConnectionManagerEventId20487
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_020487
 #>
@@ -1338,10 +1338,10 @@ Function Write-RemoteConnectionManagerEventId20488
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_020488
 #>
@@ -1359,10 +1359,10 @@ Function Write-RemoteConnectionManagerEventId20489
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_020489
 #>
@@ -1384,10 +1384,10 @@ Function Write-RemoteConnectionManagerEventId20490
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_020490
 #>
@@ -1409,10 +1409,10 @@ Function Write-RemoteConnectionManagerEventId20491
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_020491
 #>
@@ -1438,10 +1438,10 @@ Function Write-RemoteConnectionManagerEventId20492
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_020492
 #>
@@ -1467,10 +1467,10 @@ Function Write-RemoteConnectionManagerEventId20493
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_020493
 #>
@@ -1496,10 +1496,10 @@ Function Write-RemoteConnectionManagerEventId20494
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_020494
 #>
@@ -1525,10 +1525,10 @@ Function Write-RemoteConnectionManagerEventId20495
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_020495
 #>
@@ -1554,10 +1554,10 @@ Function Write-RemoteConnectionManagerEventId20496
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_020496
 #>
@@ -1583,10 +1583,10 @@ Function Write-RemoteConnectionManagerEventId20499
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_020499
 #>
@@ -1608,10 +1608,10 @@ Function Write-RemoteConnectionManagerEventId20500
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_020500
 #>
@@ -1637,10 +1637,10 @@ Function Write-RemoteConnectionManagerEventId20502
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_020502
 #>
@@ -1658,10 +1658,10 @@ Function Write-RemoteConnectionManagerEventId20503
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_020503
 #>
@@ -1691,10 +1691,10 @@ Function Write-RemoteConnectionManagerEventId20504
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_020504
 #>
@@ -1724,10 +1724,10 @@ Function Write-RemoteConnectionManagerEventId20506
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_020506
 #>
@@ -1757,10 +1757,10 @@ Function Write-RemoteConnectionManagerEventId20507
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_020507
 #>
@@ -1790,10 +1790,10 @@ Function Write-RemoteConnectionManagerEventId20508
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_020508
 #>
@@ -1819,10 +1819,10 @@ Function Write-RemoteConnectionManagerEventId20509
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_020509
 #>
@@ -1848,10 +1848,10 @@ Function Write-RemoteConnectionManagerEventId20510
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_020510
 #>
@@ -1877,10 +1877,10 @@ Function Write-RemoteConnectionManagerEventId20511
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_020511
 #>
@@ -1906,10 +1906,10 @@ Function Write-RemoteConnectionManagerEventId20512
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_020512
 #>
@@ -1939,10 +1939,10 @@ Function Write-RemoteConnectionManagerEventId20513
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_020513
 #>
@@ -1968,10 +1968,10 @@ Function Write-RemoteConnectionManagerEventId20514
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_020514
 #>
@@ -1997,10 +1997,10 @@ Function Write-RemoteConnectionManagerEventId20515
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_020515
 #>
@@ -2018,10 +2018,10 @@ Function Write-RemoteConnectionManagerEventId20516
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_020516
 #>
@@ -2039,10 +2039,10 @@ Function Write-RemoteConnectionManagerEventId20517
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_020517
 #>
@@ -2060,10 +2060,10 @@ Function Write-RemoteConnectionManagerEventId20518
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_020518
 #>
@@ -2081,10 +2081,10 @@ Function Write-RemoteConnectionManagerEventId20519
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_020519
 #>
@@ -2102,10 +2102,10 @@ Function Write-RemoteConnectionManagerEventId20520
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_020520
 #>
@@ -2123,10 +2123,10 @@ Function Write-RemoteConnectionManagerEventId20521
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_020521
 #>
@@ -2144,10 +2144,10 @@ Function Write-RemoteConnectionManagerEventId20522
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_020522
 #>
@@ -2181,10 +2181,10 @@ Function Write-RemoteConnectionManagerEventId20523
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_020523
 #>
@@ -2206,10 +2206,10 @@ Function Write-RemoteConnectionManagerEventId50180
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_050180
 #>
@@ -2227,10 +2227,10 @@ Function Write-RemoteConnectionManagerEventId50195
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_050195
 #>
@@ -2248,10 +2248,10 @@ Function Write-RemoteConnectionManagerEventId50213
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_050213
 #>
@@ -2269,10 +2269,10 @@ Function Write-RemoteConnectionManagerEventId50214
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_050214
 #>
@@ -2290,10 +2290,10 @@ Function Write-RemoteConnectionManagerEventId50215
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_050215
 #>
@@ -2311,10 +2311,10 @@ Function Write-RemoteConnectionManagerEventId50216
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_050216
 #>
@@ -2332,10 +2332,10 @@ Function Write-RemoteConnectionManagerEventId50281
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_050281
 #>
@@ -2353,10 +2353,10 @@ Function Write-RemoteConnectionManagerEventId50283
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_050283
 #>
@@ -2374,10 +2374,10 @@ Function Write-RemoteConnectionManagerEventId50284
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_050284
 #>
@@ -2395,10 +2395,10 @@ Function Write-RemoteConnectionManagerEventId50307
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_050307
 #>
@@ -2416,10 +2416,10 @@ Function Write-RemoteConnectionManagerEventId50309
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_050309
 #>
@@ -2437,10 +2437,10 @@ Function Write-RemoteConnectionManagerEventId50310
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_050310
 #>
@@ -2458,10 +2458,10 @@ Function Write-RemoteConnectionManagerEventId50312
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_050312
 #>

@@ -6,12 +6,12 @@ using Microsoft.Diagnostics.Tracing.Session;
 using System.Linq;
 using CommandLine;
 
-namespace Transluator
+namespace Translator
 {
     /// <summary>
-    /// This the main class of transluator
+    /// This the main class of translator
     /// </summary>
-	static class Transluator
+	static class Translator
     {
         public class Options
         {

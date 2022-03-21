@@ -1,5 +1,5 @@
 ﻿
-# This module was generated automaticaly using Transluator.exe
+# This module was generated automaticaly using translator.exe
 # Some customs could be made afterwards to take into account some specificity of the provider (like Task or keywords arguments)
 # This is the module that handle the following provider
 # Name : Microsoft-Windows-Sysmon
@@ -10,10 +10,10 @@ Function Write-SysmonEventId1
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : ProcessCreate(rule:ProcessCreate)_V5
 #>
@@ -119,10 +119,10 @@ Function Write-SysmonEventId2
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : Filecreationtimechanged(rule:FileCreateTime)_V5
 #>
@@ -172,10 +172,10 @@ Function Write-SysmonEventId3
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : Networkconnectiondetected(rule:NetworkConnect)_V5
 #>
@@ -261,10 +261,10 @@ Function Write-SysmonEventId4
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : Sysmonservicestatechanged_V3
 #>
@@ -294,10 +294,10 @@ Function Write-SysmonEventId5
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : Processterminated(rule:ProcessTerminate)_V3
 #>
@@ -335,10 +335,10 @@ Function Write-SysmonEventId6
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : Driverloaded(rule:DriverLoad)_V4
 #>
@@ -380,10 +380,10 @@ Function Write-SysmonEventId7
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : Imageloaded(rule:ImageLoad)_V3
 #>
@@ -461,10 +461,10 @@ Function Write-SysmonEventId8
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : CreateRemoteThreaddetected(rule:CreateRemoteThread)_V2
 #>
@@ -534,10 +534,10 @@ Function Write-SysmonEventId9
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : RawAccessReaddetected(rule:RawAccessRead)_V2
 #>
@@ -579,10 +579,10 @@ Function Write-SysmonEventId10
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : Processaccessed(rule:ProcessAccess)_V3
 #>
@@ -648,10 +648,10 @@ Function Write-SysmonEventId11
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : Filecreated(rule:FileCreate)_V2
 #>
@@ -697,10 +697,10 @@ Function Write-SysmonEventId12
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : Registryobjectaddedordeleted(rule:RegistryEvent)_V2
 #>
@@ -746,10 +746,10 @@ Function Write-SysmonEventId13
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : Registryvalueset(rule:RegistryEvent)_V2
 #>
@@ -799,10 +799,10 @@ Function Write-SysmonEventId14
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : Registryobjectrenamed(rule:RegistryEvent)_V2
 #>
@@ -852,10 +852,10 @@ Function Write-SysmonEventId15
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : Filestreamcreated(rule:FileCreateStreamHash)_V2
 #>
@@ -909,10 +909,10 @@ Function Write-SysmonEventId16
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : Sysmonconfigstatechanged_V3
 #>
@@ -938,10 +938,10 @@ Function Write-SysmonEventId17
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : PipeCreated(rule:PipeEvent)_V1
 #>
@@ -987,10 +987,10 @@ Function Write-SysmonEventId18
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : PipeConnected(rule:PipeEvent)_V1
 #>
@@ -1036,10 +1036,10 @@ Function Write-SysmonEventId19
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : WmiEventFilteractivitydetected(rule:WmiEvent)_V3
 #>
@@ -1085,10 +1085,10 @@ Function Write-SysmonEventId20
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : WmiEventConsumeractivitydetected(rule:WmiEvent)_V3
 #>
@@ -1134,10 +1134,10 @@ Function Write-SysmonEventId21
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : WmiEventConsumerToFilteractivitydetected(rule:WmiEvent)_V3
 #>
@@ -1179,10 +1179,10 @@ Function Write-SysmonEventId22
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : Dnsquery(rule:DnsQuery)_V5
 #>
@@ -1232,10 +1232,10 @@ Function Write-SysmonEventId23
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : FileDeletearchived(rule:FileDelete)_V5
 #>
@@ -1289,10 +1289,10 @@ Function Write-SysmonEventId24
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : Clipboardchanged(rule:ClipboardChange)_V5
 #>
@@ -1346,10 +1346,10 @@ Function Write-SysmonEventId25
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : ProcessTampering(rule:ProcessTampering)_V5
 #>
@@ -1391,10 +1391,10 @@ Function Write-SysmonEventId26
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : FileDeletelogged(rule:FileDeleteDetected)_V5
 #>
@@ -1444,10 +1444,10 @@ Function Write-SysmonEventId255
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : Errorreport_V3
 #>

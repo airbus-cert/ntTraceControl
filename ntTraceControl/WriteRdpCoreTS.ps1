@@ -1,5 +1,5 @@
 
-# This module was generated automaticaly using Transluator.exe
+# This module was generated automaticaly using translator.exe
 # Some customs could be made afterwards to take into account some specificity of the provider (like Task or keywords arguments)
 # This is the module that handle the following provider
 # Name : Microsoft-Windows-RemoteDesktopServices-RdpCoreTS
@@ -10,10 +10,10 @@ Function Write-RdpCoreTSEventId1
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : RDPStackInitialize
 #>
@@ -31,10 +31,10 @@ Function Write-RdpCoreTSEventId3
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : RemoteFXmoduleInitialize
 #>
@@ -52,10 +52,10 @@ Function Write-RdpCoreTSEventId4
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : RemoteFXmoduleInitialize4
 #>
@@ -73,10 +73,10 @@ Function Write-RdpCoreTSEventId5
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : RemoteFXmoduleInitialize5
 #>
@@ -94,10 +94,10 @@ Function Write-RdpCoreTSEventId6
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : RemoteFXmoduleInitialize6
 #>
@@ -123,10 +123,10 @@ Function Write-RdpCoreTSEventId35
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : RemoteFXmodule_4Initialize35
 #>
@@ -144,10 +144,10 @@ Function Write-RdpCoreTSEventId36
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : RemoteFXmodule_4Initialize36
 #>
@@ -165,10 +165,10 @@ Function Write-RdpCoreTSEventId37
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : RemoteFXmodule_4Initialize37
 #>
@@ -194,10 +194,10 @@ Function Write-RdpCoreTSEventId65
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : RemoteFXmodule_4RCMProtocolImpl
 #>
@@ -215,10 +215,10 @@ Function Write-RdpCoreTSEventId66
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : RemoteFXmodule_4RCMProtocolImpl66
 #>
@@ -240,10 +240,10 @@ Function Write-RdpCoreTSEventId67
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : RemoteFXmodule_4RCMProtocolImpl67
 #>
@@ -265,10 +265,10 @@ Function Write-RdpCoreTSEventId68
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : RemoteFXmodule_4RCMProtocolImpl68
 #>
@@ -302,10 +302,10 @@ Function Write-RdpCoreTSEventId69
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : RemoteFXmodule_4RCMProtocolImpl69
 #>
@@ -323,10 +323,10 @@ Function Write-RdpCoreTSEventId70
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : RemoteFXmodule_4RCMProtocolImpl70
 #>
@@ -344,10 +344,10 @@ Function Write-RdpCoreTSEventId71
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : RemoteFXmodule_4RCMProtocolImpl71
 #>
@@ -369,10 +369,10 @@ Function Write-RdpCoreTSEventId72
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : RemoteFXmodule_4RCMProtocolImpl72
 #>
@@ -390,10 +390,10 @@ Function Write-RdpCoreTSEventId73
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : RemoteFXmodule_4RCMProtocolImpl73
 #>
@@ -411,10 +411,10 @@ Function Write-RdpCoreTSEventId97
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : RemoteFXmodule_4ProtocolExchange
 #>
@@ -436,10 +436,10 @@ Function Write-RdpCoreTSEventId99
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : RemoteFXmodule_4EstablishConnection99
 #>
@@ -457,10 +457,10 @@ Function Write-RdpCoreTSEventId101
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : RemoteFXmodule_4NetworkDetect
 #>
@@ -478,10 +478,10 @@ Function Write-RdpCoreTSEventId103
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : RemoteFXmodule_4CloseConnection103
 #>
@@ -499,10 +499,10 @@ Function Write-RdpCoreTSEventId104
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : RemoteFXmodule_4EstablishConnection104
 #>
@@ -520,10 +520,10 @@ Function Write-RdpCoreTSEventId129
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : RemoteFXmodule_4NetworkBinding
 #>
@@ -545,10 +545,10 @@ Function Write-RdpCoreTSEventId130
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : RemoteFXmodule_4EstablishConnection130
 #>
@@ -566,10 +566,10 @@ Function Write-RdpCoreTSEventId131
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : RemoteFXmodule_4EstablishConnection131
 #>
@@ -591,10 +591,10 @@ Function Write-RdpCoreTSEventId132
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : RemoteFXmodule_4EstablishConnection132
 #>
@@ -616,10 +616,10 @@ Function Write-RdpCoreTSEventId133
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : RemoteFXmodule_4NetworkDetect133
 #>
@@ -645,10 +645,10 @@ Function Write-RdpCoreTSEventId134
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : RemoteFXmodule_4NetworkDetect134
 #>
@@ -678,10 +678,10 @@ Function Write-RdpCoreTSEventId135
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : RemoteFXmodule_4EstablishConnection135
 #>
@@ -703,10 +703,10 @@ Function Write-RdpCoreTSEventId137
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : RemoteFXmodule_4NetworkDetect137
 #>
@@ -732,10 +732,10 @@ Function Write-RdpCoreTSEventId138
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : RemoteFXmodule_4EstablishConnection138
 #>
@@ -753,10 +753,10 @@ Function Write-RdpCoreTSEventId139
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : RemoteFXmodule_4ProtocolExchange139
 #>
@@ -778,10 +778,10 @@ Function Write-RdpCoreTSEventId140
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : RemoteFXmodule_4ProtocolExchange140
 #>
@@ -799,10 +799,10 @@ Function Write-RdpCoreTSEventId141
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : RemoteFXmodule_4Initialize141
 #>
@@ -820,10 +820,10 @@ Function Write-RdpCoreTSEventId142
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : RemoteFXmodule_4EstablishConnection142
 #>
@@ -841,10 +841,10 @@ Function Write-RdpCoreTSEventId143
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : RemoteFXmodule_4EstablishConnection143
 #>
@@ -862,10 +862,10 @@ Function Write-RdpCoreTSEventId145
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : RemoteFXmodule_4Runtime
 #>
@@ -891,10 +891,10 @@ Function Write-RdpCoreTSEventId146
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : RemoteFXmodule_4Runtime146
 #>
@@ -912,10 +912,10 @@ Function Write-RdpCoreTSEventId147
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : RemoteFXmodule_4Runtime147
 #>
@@ -933,10 +933,10 @@ Function Write-RdpCoreTSEventId148
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : RemoteFXmodule_4CloseConnection148
 #>
@@ -958,10 +958,10 @@ Function Write-RdpCoreTSEventId149
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : RemoteFXmodule_4Runtime149
 #>
@@ -979,10 +979,10 @@ Function Write-RdpCoreTSEventId150
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : RemoteFXmodule_4Runtime150
 #>
@@ -1004,10 +1004,10 @@ Function Write-RdpCoreTSEventId151
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : RemoteFXmodule_4Runtime151
 #>
@@ -1049,10 +1049,10 @@ Function Write-RdpCoreTSEventId152
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : RemoteFXmodule_4Runtime152
 #>
@@ -1082,10 +1082,10 @@ Function Write-RdpCoreTSEventId153
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : RemoteFXmodule_4Runtime153
 #>
@@ -1103,10 +1103,10 @@ Function Write-RdpCoreTSEventId154
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : RemoteFXmodule_4Runtime154
 #>
@@ -1128,10 +1128,10 @@ Function Write-RdpCoreTSEventId161
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : RemoteFXmodule_4Runtime161
 #>
@@ -1153,10 +1153,10 @@ Function Write-RdpCoreTSEventId162
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : RemoteFXmodule_4Runtime162
 #>
@@ -1190,10 +1190,10 @@ Function Write-RdpCoreTSEventId163
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : RemoteFXmodule_4Runtime163
 #>
@@ -1211,10 +1211,10 @@ Function Write-RdpCoreTSEventId164
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : RemoteFXmodule_4Runtime164
 #>
@@ -1232,10 +1232,10 @@ Function Write-RdpCoreTSEventId165
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : RemoteFXmodule_4Runtime165
 #>
@@ -1253,10 +1253,10 @@ Function Write-RdpCoreTSEventId166
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : RemoteFXmodule_4Runtime166
 #>
@@ -1274,10 +1274,10 @@ Function Write-RdpCoreTSEventId167
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : RemoteFXmodule_4Runtime167
 #>
@@ -1295,10 +1295,10 @@ Function Write-RdpCoreTSEventId168
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : RemoteFXmodule_4Initialize168
 #>
@@ -1336,10 +1336,10 @@ Function Write-RdpCoreTSEventId169
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : RemoteFXmodule_4Runtime169
 #>
@@ -1365,10 +1365,10 @@ Function Write-RdpCoreTSEventId170
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : RemoteFXmodule_4Runtime170
 #>
@@ -1394,10 +1394,10 @@ Function Write-RdpCoreTSEventId171
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : RemoteFXmodule_4Runtime171
 #>
@@ -1415,10 +1415,10 @@ Function Write-RdpCoreTSEventId195
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : RemoteFXmodule_4Runtime195
 #>
@@ -1436,10 +1436,10 @@ Function Write-RdpCoreTSEventId225
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : RemoteFXmodule_4Runtime225
 #>
@@ -1481,10 +1481,10 @@ Function Write-RdpCoreTSEventId226
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : RemoteFXmodule_4Runtime226
 #>
@@ -1530,10 +1530,10 @@ Function Write-RdpCoreTSEventId227
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : RemoteFXmodule_4Runtime227
 #>
@@ -1559,10 +1559,10 @@ Function Write-RdpCoreTSEventId228
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : RemoteFXmodule_4Runtime228
 #>
@@ -1588,10 +1588,10 @@ Function Write-RdpCoreTSEventId229
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : RemoteFXmodule_4Runtime229
 #>
@@ -1613,10 +1613,10 @@ Function Write-RdpCoreTSEventId289
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : RemoteFXmodule_4UDPReverseConnect
 #>
@@ -1642,10 +1642,10 @@ Function Write-RdpCoreTSEventId291
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : RemoteFXmodule_4UDPReverseConnect291
 #>

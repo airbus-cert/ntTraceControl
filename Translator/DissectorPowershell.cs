@@ -3,12 +3,12 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 
-namespace Transluator
+namespace Translator
 {
     static class DissectorPowershellTemplate
     {
         public const string PROVIDER = @"
-# This module was generated automaticaly using Transluator.exe
+# This module was generated automaticaly using Translator.exe
 # Some customs could be made afterwards to take into account some specificity of the provider (like Task or keywords arguments)
 # This is the module that handle the following provider
 # Name : {0}
@@ -20,10 +20,10 @@ Function Write-{0}EventId{1}
 {{
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using Translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 Translator.exe
 
 Symbol : {2}
 #>

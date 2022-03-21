@@ -1,5 +1,5 @@
 
-# This module was generated automaticaly using Transluator.exe
+# This module was generated automaticaly using translator.exe
 # Some customs could be made afterwards to take into account some specificity of the provider (like Task or keywords arguments)
 # This is the module that handle the following provider
 # Name : Microsoft-Windows-WMI-Activity
@@ -10,10 +10,10 @@ Function Write-WMIActivityEventId1
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_0
 #>
@@ -55,10 +55,10 @@ Function Write-WMIActivityEventId2
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_02
 #>
@@ -92,10 +92,10 @@ Function Write-WMIActivityEventId3
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_03
 #>
@@ -113,10 +113,10 @@ Function Write-WMIActivityEventId11
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_011
 #>
@@ -174,10 +174,10 @@ Function Write-WMIActivityEventId12
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_012
 #>
@@ -215,10 +215,10 @@ Function Write-WMIActivityEventId13
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_013
 #>
@@ -240,10 +240,10 @@ Function Write-WMIActivityEventId14
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_014
 #>
@@ -273,10 +273,10 @@ Function Write-WMIActivityEventId15
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_015
 #>
@@ -314,10 +314,10 @@ Function Write-WMIActivityEventId16
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_016
 #>
@@ -347,10 +347,10 @@ Function Write-WMIActivityEventId17
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_017
 #>
@@ -388,10 +388,10 @@ Function Write-WMIActivityEventId18
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_018
 #>
@@ -413,10 +413,10 @@ Function Write-WMIActivityEventId19
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_019
 #>
@@ -454,10 +454,10 @@ Function Write-WMIActivityEventId20
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_020
 #>
@@ -499,10 +499,10 @@ Function Write-WMIActivityEventId21
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_021
 #>
@@ -524,10 +524,10 @@ Function Write-WMIActivityEventId22
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_022
 #>
@@ -593,10 +593,10 @@ Function Write-WMIActivityEventId23
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_023
 #>
@@ -658,10 +658,10 @@ Function Write-WMIActivityEventId100
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_0100
 #>
@@ -687,10 +687,10 @@ Function Write-WMIActivityEventId101
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_0101
 #>
@@ -720,10 +720,10 @@ Function Write-WMIActivityEventId5857
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_05857
 #>
@@ -757,10 +757,10 @@ Function Write-WMIActivityEventId5858
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_05858
 #>
@@ -806,10 +806,10 @@ Function Write-WMIActivityEventId5859
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_05859
 #>
@@ -851,10 +851,10 @@ Function Write-WMIActivityEventId5860
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_05860
 #>
@@ -892,10 +892,10 @@ Function Write-WMIActivityEventId5861
 {
 <#
 .SYNOPSIS
-This function was generated using Transluator.exe
+This function was generated using translator.exe
 If you modify it afterwards please add a comment
 
-Version 1.0 Transluator.exe
+Version 1.0 translator.exe
 
 Symbol : task_05861
 #>
