@@ -9,6 +9,8 @@ ntTraceControl is a set of Powershell commands to forge/generate Windows logs. S
 Many detection teams rely upon Sysmon to create advanced detection rules. ntTraceControl includes dedicated cmdlets for Sysmon through Write-SysmonEventId*:
 
 ```
+Import-Module ntTraceControl
+
 Write-SysmonEventId1 -Image mimikatz.exe -CommandLine "c:\Users\Admin\personal\mimikatz.exe" -ParentCommandLine "Get-Password.ps1"
 ```
 
@@ -22,6 +24,8 @@ Therefore, you can easily generate a `fake` command line to test your use cases 
 Microsoft-Windows-Audit-Security is the provider used to log messages like 4624 used to inform of a login session. All security logs are available through the Write-SecurityEventId* cmdlets:
 
 ```
+Import-Module ntTraceControl
+
 Write-SecurityEventId4624 -SubjectUserName "Welcome ntTraceControl" -SubjectDomainName "Airbus CERT" 
 ```
 
@@ -34,6 +38,8 @@ Modern Powershell includes cmdlet to parse windows logs files (.evtx) and produc
 For our example, we used the wonderful [EVTX-ATTACK-SAMPLES](https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES) repository from [@sbousseaden](https://github.com/sbousseaden) !
 
 ```
+Import-Module ntTraceControl
+
 Invoke-WebRequest -Uri https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES/raw/master/Credential%20Access/CA_teamviewer-dumper_sysmon_10.evtx -OutFile C:\Users\sylvain.COSMOS\Desktop\CA_teamviewer-dumper_sysmon_10.evtx
 
 Get-WinEvent -Path C:\Users\sylvain.COSMOS\Desktop\CA_teamviewer-dumper_sysmon_10.evtx | ForEach-Object {$_ | Write-EventLogRecord -Channel 10}
@@ -42,6 +48,8 @@ Get-WinEvent -Path C:\Users\sylvain.COSMOS\Desktop\CA_teamviewer-dumper_sysmon_1
 ![From an evtx file example 1](assets/example3.png)
 
 ```
+Import-Module ntTraceControl
+
 Invoke-WebRequest -Uri https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES/raw/master/Credential%20Access/CA_DCSync_4662.evtx -OutFile C:\Users\sylvain.COSMOS\Desktop\CA_DCSync_4662.evtx
 
 Get-WinEvent -Path C:\Users\sylvain.COSMOS\Desktop\CA_DCSync_4662.evtx | ForEach-Object {$_ | Write-EventLogRecord -Channel 0}
@@ -56,6 +64,8 @@ All cmdlets are based on a more generic one named Write-Etw. This cmdlet has no 
 Here is an example to emit an event ID 4, "Sysmon service changed", from the Sysmon provider:
 
 ```
+Import-Module ntTraceControl
+
 Write-Etw -ProviderGuid ([System.Guid]::Parse("5770385f-c22a-43e0-bf4c-06f5698ffbd9")) -Id 4 -Version 3 -Channel 16 -Level 0 -Opcode 0 -Task 4 -Keyword ([Int64]"0x8000000000000000") -Parameters @(“monday”,”running”,”8.0”,”11.0”)
 ```
 
