@@ -68,7 +68,7 @@ An installer is provided under the [Releases](https://github.com/airbus-cert/ntT
 # How it works
 
 We rely on `NtTraceControl` and `NtTraceEvent` syscalls to produce any kind of ETW.
-To write an ETW, we need first register the associated provider GUID, with `Connect-Event` cmdlet, then write a message using `Write-Event` cmdlet, then disconnect the provider using `Disconnect-Event`:
+To write an ETW, we need first register the associated provider GUID, with `Connect-Event` cmdlet, then write a message using `Write-Event` cmdlet, then disconnect the provider using `Disconnect-Event`.
 
 In most cases, administrator rights are needed to produce a log.
 
