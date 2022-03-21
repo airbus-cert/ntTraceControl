@@ -1,6 +1,4 @@
-# ntTraceControl
-Powershell Event Tracing Toolbox
-
+# ntTraceControl -- Powershell Event Tracing Toolbox
 
 ntTraceControl is a set of Powershell commands to `forge (generate)` Windows logs. Thus, ntTraceControl supports Detection teams to simply test detection use cases and alerts without using complex infrastructure, tools, or testing vulnerability.
 
