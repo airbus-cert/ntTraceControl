@@ -4,7 +4,7 @@ ntTraceControl is a set of Powershell commands to `forge (generate)` Windows log
 
 # Use Cases
 
-## Write Sysmon Create Process Event -- generate command line
+## Generate command line : Write Sysmon Create Process Event
 
 Many detection teams rely on Sysmon to create advanced detection rules. ntTraceControl includes dedicated cmdlets for Sysmon through Write-SysmonEventId*:
 
@@ -17,7 +17,7 @@ Thus, you can esaily generate a `fake` command line and test your use cases and 
 ![Sysmon Process Create Example](assets/example1.png)
 
 
-## Write Security Logon - `fake` authentification
+## Generate `fake` authentification: Write Security Logon
 
 Microsoft-Windows-Audit-Security is the provider used to log messages like 4624 used to inform of a login session. All security logs are available through the Write-SecurityEventId* cmdlets:
 
